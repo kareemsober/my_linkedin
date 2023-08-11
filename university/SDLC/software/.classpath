@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Java-CarDealership/src"/>
+	<classpathentry kind="src" path="Java-CarDealership/test"/>
+	<classpathentry kind="src" path="systems-development-cw/Prototype Technopoly/src"/>
+	<classpathentry kind="src" path="systems-development-cw/Technopoly/src"/>
+	<classpathentry kind="src" path="systems-development-cw/Technopoly/testing"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/activation.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/javafx-sdk-15.0.1/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/javafx-sdk-15.0.1/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/javafx-sdk-15.0.1/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/javafx-sdk-15.0.1/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/javafx-sdk-15.0.1/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/javafx-sdk-15.0.1/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/javafx-sdk-15.0.1/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/javafx-sdk-15.0.1/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/jfoenix-9.0.10.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/mail.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/mailapi-1.6.2.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="Event-Management-System/Project/EMS/Java/smtp-1.6.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="Event-Management-System/Project/EMS/InterfaceMain/out/production/InterfaceMain"/>
+</classpath>

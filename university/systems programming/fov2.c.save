@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main() {
+  do {
+
+  int inputt[5];
+  printf("1-Restaurant\n")
+  printf("11-Order_table\n");
+  printf("12-quit\n");
