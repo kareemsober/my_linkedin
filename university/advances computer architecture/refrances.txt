@@ -1,0 +1,17 @@
+1- https://binaryterms.com/direct-memory-access-dma.html#WhatisDMAandWhyitisused?
+2-https://www.elprocus.com/difference-between-risc-and-cisc-architecture/ 
+3- https://binaryterms.com/interrupts-in-computer-architecture.html
+4- https://www.geeksforgeeks.org/different-instruction-cycles/
+5- https://www.ques10.com/p/19373/explain-instruction-cycle-with-interrupts-executio/
+6- https://ourtutorials.in/csa/interrupt_cycle.php
+7- https://www.elprocus.com/difference-between-risc-and-cisc-architecture/
+8- https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/
+9- https://www.watelectronics.com/risc-and-cisc-architecture-their-differences/
+10- https://www.geeksforgeeks.org/interrupts/
+11- https://www.javatpoint.com/flynns-classification-of-computers
+12- http://boron.physics.metu.edu.tr/ozdogan/GraduateParallelComputing.old/week1/node5.html
+13- https://www.sciencedirect.com/topics/computer-science/computer-architecture
+14- 
+15- 
+16- 
+

@@ -1,0 +1,19 @@
+ORG 200 //Start address 200
+     	LDA VALB // Load multiplier
+     	STA CTR // Store count
+     	LDA CTR // Load count to ac
+     	CMA // 1 complements the count
+     	INC // increment the count 
+     	STA CTR // Store count
+CLA 
+LOP,    LDA VALZ // Load value Z to AC
+     	 ADD VALA 
+     	 STA VALZ // Store Z in memory
+     	 ISZ CTR // Increment count and if 0 skip
+     	 BUN LOP //Repeat
+     	 HLT //hult (stop)
+
+CTR, DEC 0 //Count
+VALA HEX 10 //Multiplicand
+VALZ HEX 0 //Results
+VALB HEX 50 //Multiplier
